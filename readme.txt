@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: fruitfulcode
 Donate link: http://fruitfulcode.com
-Tags: fruitful, shortcode, shortcodes, short code, tab, tabs, horizontal tabs, vertical tabs, accordion, promo text, columns, infobox, separator, alert, progress bar, button
+Tags: fruitful, shortcode, shortcodes, short code, bootstrap, tab, tabs, horizontal tabs, vertical tabs, accordion, promo text, columns, infobox, separator, alert, progress bar, button
 Requires at least: 3.4.1
 Tested up to: 3.9.1
 Stable tag: 1.0
@@ -11,22 +11,24 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Add additional content shortcodes: horizontal tabs, vertical tabs, accordion, promo text, columns, infobox, separator, alert, progress bar, button
 
 == Description ==
+<h3>Demo Website</h3>
 http://plugins.fruitfulcode.com/shortcodes/
 <h3>Shortcodes</h3>
 <ul>
-<li>Horizontal tabs</li>
-<li>Vertical tabs</li>
-<li>Accordion</li>
-<li>Columns 1/2</li>
-<li>Columns 1/3</li>
-<li>Columns 2/3</li>
-<li>Columns 1/4</li
-<li>Columns 3/4</li>
-<li>Columns 1/5</li>
-<li>Separator</li>
-<li>Promo text</li>
-<li>Progress bar</li>
-<li>Button</li>
+<li><a hre="http://plugins.fruitfulcode.com/shortcodes/horizontal-tabs/">Horizontal tabs</a></li> 
+<li><a hre="http://plugins.fruitfulcode.com/shortcodes/vertical-tabs/">Vertical tabs</a></li> 
+<li><a hre="http://plugins.fruitfulcode.com/shortcodes/accordion/">Accordion</a></li> 
+<li><a hre="http://plugins.fruitfulcode.com/shortcodes/12-columns/">Columns 1/2</a></li> 
+<li><a hre="http://plugins.fruitfulcode.com/shortcodes/13-columns/">Columns 1/3</a></li> 
+<li><a hre="http://plugins.fruitfulcode.com/shortcodes/23-columns/">Columns 2/3</a></li> 
+<li><a hre="http://plugins.fruitfulcode.com/shortcodes/14-columns/">Columns 1/4</a></li 
+<li><a hre="http://plugins.fruitfulcode.com/shortcodes/34-columns/">Columns 3/4</a></li> 
+<li><a hre="http://plugins.fruitfulcode.com/shortcodes/15-columns/">Columns 1/5</a></li> 
+<li><a hre="http://plugins.fruitfulcode.com/shortcodes/separator/">Separator</a></li> 
+<li><a hre="http://plugins.fruitfulcode.com/shortcodes/promo-text/">Promo text</a></li> 
+<li><a hre="http://plugins.fruitfulcode.com/shortcodes/progress-bar/">Progress bar</a></li> 
+<li><a hre="http://plugins.fruitfulcode.com/shortcodes/button/">Button</a></li> 
+<li><a hre="http://plugins.fruitfulcode.com/shortcodes/alert/">Alert</a></li> 
 </ul>
 
 <h3>Technical support</h3>
@@ -40,7 +42,6 @@ If you have any questions or recommendations regarding the functionality of our 
 </ol>
 
 == Installation ==
-
 
 1. Upload `fruitful-shortcodes` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
