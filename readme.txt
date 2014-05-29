@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: fruitfulcode
 Donate link: http://fruitfulcode.com
-Tags: fruitful, shortcode, shortcodes, short code, bootstrap, tab, tabs, horizontal tabs, vertical tabs, accordion, promo text, columns, infobox, separator, alert, progress bar, button
+Tags: admin, fruitful, shortcode, shortcodes, short code, editor, content, bootstrap, post, page, tab, tabs, horizontal tabs, vertical tabs, accordion, promo text, columns, infobox, separator, alert, progress bar, button
 Requires at least: 3.4.1
 Tested up to: 3.9.1
 Stable tag: 1.0
