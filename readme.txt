@@ -21,7 +21,7 @@ http://plugins.fruitfulcode.com/shortcodes/
 <li><a hre="http://plugins.fruitfulcode.com/shortcodes/12-columns/">Columns 1/2</a></li> 
 <li><a hre="http://plugins.fruitfulcode.com/shortcodes/13-columns/">Columns 1/3</a></li> 
 <li><a hre="http://plugins.fruitfulcode.com/shortcodes/23-columns/">Columns 2/3</a></li> 
-<li><a hre="http://plugins.fruitfulcode.com/shortcodes/14-columns/">Columns 1/4</a></li 
+<li><a hre="http://plugins.fruitfulcode.com/shortcodes/14-columns/">Columns 1/4</a></li>
 <li><a hre="http://plugins.fruitfulcode.com/shortcodes/34-columns/">Columns 3/4</a></li> 
 <li><a hre="http://plugins.fruitfulcode.com/shortcodes/15-columns/">Columns 1/5</a></li> 
 <li><a hre="http://plugins.fruitfulcode.com/shortcodes/separator/">Separator</a></li> 
@@ -60,7 +60,7 @@ Please send request to our support, we will check the issues.
 
 = I haven’t found an answer to my question, what should I do? = 
 
-You can check <a href="http://support.fruitfulcode.com/hc/en-us/sections/200406396-Fruitful-shortcodes">support forum</a> or <a class="send-mail" target="_blank" href="mailto:mail@fruitfulcode.com?subject=Woocommerce%20reviews%20widget">send email to us</a>
+You can check <a href="http://support.fruitfulcode.com/hc/en-us/sections/200406396-Fruitful-shortcodes">support forum</a> or <a class="send-mail" target="_blank" href="mailto:mail@fruitfulcode.com?subject=Wordpress.org:%20Fruitful%20Shortcodes%20">send email to us</a>
 
 == Screenshots ==
 
