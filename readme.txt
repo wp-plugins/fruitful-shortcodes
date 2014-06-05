@@ -4,7 +4,7 @@ Donate link: http://fruitfulcode.com
 Tags: admin, fruitful, shortcode, shortcodes, short code, editor, content, bootstrap, post, page, tab, tabs, horizontal tabs, vertical tabs, accordion, promo text, columns, infobox, separator, alert, progress bar, button
 Requires at least: 3.4.1
 Tested up to: 3.9.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -69,6 +69,10 @@ You can check <a href="http://support.fruitfulcode.com/hc/en-us/sections/2004063
 3. Add horizontal tabs
 
 == Changelog ==
+
+= 1.1 = (05.06.2014)
+* Shortcode Description: New attribute shadowtype
+* Shortcode Vertical tabs: New attribute 
 
 = 1.0 = (29.05.2014)
 * Initial release
