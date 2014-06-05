@@ -67,12 +67,21 @@ You can check <a href="http://support.fruitfulcode.com/hc/en-us/sections/2004063
 1. General > Fruitful Shortcodes
 2. Visual editor additional shortcodes
 3. Add horizontal tabs
+4. Add vertical tab
+5. Add accordion
+6. Add promo text with shadow
+7. Add column info boxes
+8. Add separator
+9. Add Alert box
+10. Add progress bar
+11. Add button
 
 == Changelog ==
 
 = 1.1 = (05.06.2014)
 * Shortcode Description: New attribute shadowtype
-* Shortcode Vertical tabs: New attribute 
+* Shortcode Vertical tabs: New attribute for changing left tab width
+* Bug fix: Last column
 
 = 1.0 = (29.05.2014)
 * Initial release
