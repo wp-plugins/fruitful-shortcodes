@@ -86,7 +86,7 @@ Release Date: 05.06.2014
 	* Shortcode Vertical tabs: New attribute for changing left tab width.
 
 * Bugfixes
-	*Last column.
+	* Last column.
 
 = 1.0 = 
 Release Date: 29.05.2014
