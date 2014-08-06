@@ -89,7 +89,7 @@ Release Date: 06.08.2014
 * Bugfixes
 	* Shortcode promo text: shawow type 
 	* Promo text size responsive
-	* Removed styles for content <p>
+	* Removed styles for content paragraph
 
 
 = 1.1 =
